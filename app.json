@@ -92,7 +92,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "رمز السورس - لتلعب ",
-      "value": "sad ",
+      "value": "ZED",
       "required": false
     }
   },
