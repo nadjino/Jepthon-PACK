@@ -1,4 +1,6 @@
 telethon
+Shazamio
+https://github.com/New-dev0/Telethon/archive/New.zip
 setuptools
 wheel
 aiofiles
@@ -55,6 +57,7 @@ python-barcode
 pytuneteller
 pytz
 qrcode
+shazamio
 regex
 requests
 search-engine-parser
