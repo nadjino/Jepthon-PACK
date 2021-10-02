@@ -38,6 +38,7 @@ kwot
 lottie
 lxml
 lyricsgenius
+moviepy
 nekos.py
 patool
 Pillow
