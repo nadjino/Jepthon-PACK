@@ -1,7 +1,7 @@
 {
-  "name": "𝗦𝗢𝗨𝗥𝗖𝗘 𝗭𝗘𝗗",
+  "name": "𝗦𝗢𝗨𝗥𝗖𝗘 𝗝𝗘𝗣𝗧𝗛𝗢𝗡",
   "description": "⿻ سورس زد ثـون ™ افضل سورسات تيليثون ↬اوامر مامطروقه↬ معرب بالكامل ↬ اضافات جديده ↬ تحديثات متواصله ↬ اكتشفها بنفسك ↬────────────────────𝙎𝙊𝙐𝙍𝘾𝞝_𝙕𝞝𝘿 : @ZedThon",
-  "logo": "https://telegra.ph/file/c91c09fb188f0f281e628.jpg",
+  "logo": "https://telegra.ph/file/73b1d8f14aab306de19d5.jpg",
   "keywords": [
     "plugin",
     "modular",
@@ -46,7 +46,7 @@
     },
     "PMPERMIT_PIC": {
       "description": "رابـط صورة تليكـراف - لتغيـرها ",
-      "value": "https://telegra.ph/file/c91c09fb188f0f281e628.jpg",
+      "value": "https://telegra.ph/file/73b1d8f14aab306de19d5.jpg",
       "required": false
     },
     "MAX_FLOOD_IN_P_M_s": {
@@ -92,7 +92,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "رمز السورس - لتلعب ",
-      "value": "zed ",
+      "value": "https://github.com/almul8ab/BOT",
       "required": false
     }
   },
