@@ -3,7 +3,7 @@
 echo "
           xA3MA
 
-        𓍹 Visit @jepthon for help 𓍻
+        𓍹 Visit @my account 𓍻
 "
 
 python3 -m userbot
