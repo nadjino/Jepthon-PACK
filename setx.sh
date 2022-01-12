@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "
-          jepthon
+          xA3MA
 
         𓍹 Visit @jepthon for help 𓍻
 "
